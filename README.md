@@ -1,3 +1,7 @@
+<p align="center">
+  <img width=384 src=".assets/logo.png"/>
+</p>
+
 # Portal 2: Community Edition
 
 Portal 2: Community Edition is a custom community made engine branch of Valve's Portal 2 made to bring more features to modders and mappers of the game.
